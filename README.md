@@ -1,7 +1,4 @@
 ### Hi there eu sou Joel Cardoso Pacheco.
-
-
-
 - 🌱 Estudando Java com Spring Boot
 - 📫 Contate-me no email:  joelcardoso19@hotmail.com
 - 📱 Contate-me no número: +55 (48)9 9847-7676
